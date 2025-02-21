@@ -9,7 +9,7 @@
     • Sticky symlink protection</br>
     • Principle of least privilege</br>
 
-    ![image](https://github.com/user-attachments/assets/ed8fa262-f0bc-4056-ada0-df40383dc7bd)
+ <image>   ![image](https://github.com/user-attachments/assets/ed8fa262-f0bc-4056-ada0-df40383dc7bd)
 
 
 
