@@ -4,10 +4,13 @@
  A race condition arises when multiple processes simultaneously access and modify the same data, and the execution outcome depends on the sequence of these accesses. 
  If a privileged program contains a race-condition vulnerability, attackers can execute a parallel process to "race" against the privileged program, aiming to alter its behavior.
  Here we have exploited the vulnerability and gain the root privilege. In addition to the attacks, and we will also discuss about various protection schemes that can be used to counter the race-condition attacks.
- The lab covers the following topics:
-    • Race condition vulnerability
-    • Sticky symlink protection
-    • Principle of least privilege
+ The lab covers the following topics:</br>
+    • Race condition vulnerability</br>
+    • Sticky symlink protection</br>
+    • Principle of least privilege</br>
+
+    ![image](https://github.com/user-attachments/assets/ed8fa262-f0bc-4056-ada0-df40383dc7bd)
+
 
 
  <h2>Languages and Utilities Used</h2>
