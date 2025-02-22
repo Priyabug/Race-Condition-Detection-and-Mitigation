@@ -25,7 +25,7 @@
 <h2>Program walk-through:</h2>
 
 Task 1: Choosing Our Target<br>
-Task 2: Launching the Race Condition Attack<br>
+Task 2: Launching the Race Condition Attack</br>
        2.A: Simulating a Slow Machine<br>
        2.B: The Real Attack<br>
        2.C: An Improved Attack Method<br>
