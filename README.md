@@ -26,12 +26,12 @@
 
 Task 1: Choosing Our Target<br>
 Task 2: Launching the Race Condition Attack<br>
-         2.A: Simulating a Slow Machine<br>
-         2.B: The Real Attack<br>
-         2.C: An Improved Attack Method<br>
+        <br> 2.A: Simulating a Slow Machine<br>
+        <br> 2.B: The Real Attack<br>
+        <br> 2.C: An Improved Attack Method<br>
 Task 3: Countermeasures<br>
-         3.A: Applying the Principle of Least Privilege
-         3.B: Using Ubuntu’s Built-in Scheme
+         <br> 3.A: Applying the Principle of Least Privilege
+         <br> 3.B: Using Ubuntu’s Built-in Scheme
 
 
 <embed src a href="https://drive.google.com/file/d/1uCxoX4KH4VHQnJwIdMl1H1Zu7jlkE_vg/view" alt=""></a> </embed>
