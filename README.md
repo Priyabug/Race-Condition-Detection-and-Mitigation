@@ -24,12 +24,12 @@
 
 <h2>Program walk-through:</h2>
 
-Task 1: Choosing Our Target<br>
-Task 2: Launching the Race Condition Attack<br>
+<b>Task 1:</b> Choosing Our Target<br>
+<b>Task 2:</b> Launching the Race Condition Attack<br><br>
        2.A: Simulating a Slow Machine<br>
        2.B: The Real Attack<br>
        2.C: An Improved Attack Method<br>
-Task 3: Countermeasures<br>
+<b>Task 3:</b> Countermeasures<br>
          <br> 3.A: Applying the Principle of Least Privilege
          <br> 3.B: Using Ubuntu’s Built-in Scheme
 
